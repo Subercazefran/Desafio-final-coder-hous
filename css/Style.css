@@ -110,7 +110,7 @@ main {
 .donas__div__menu {
   width: 100%;
   background-color: #a7ffeb;
-  border-radius: 40px;
+  border-radius: 20px;
   box-shadow: #000 10px 15px 8px 2px; }
   .donas__div__menu .donas__titulo {
     color: black;
@@ -205,7 +205,9 @@ main {
   .foot {
     text-align: center; }
   #Img__foot {
-    display: none; } }
+    display: none; }
+  .donas__titulo {
+    font-size: 90%; } }
 
 * {
   margin: 0;
