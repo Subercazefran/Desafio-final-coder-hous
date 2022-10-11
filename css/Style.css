@@ -206,11 +206,6 @@ main {
   #Img__foot {
     display: none; } }
 
-/* // `sm` applies to x-small devices (portrait phones, less than 576px) */
-/* // `md` applies to small devices (landscape phones, less than 768px) */
-/* // `lg` applies to medium devices (tablets, less than 992px) */
-/* // `xl` applies to large devices (desktops, less than 1200px) */
-/* // `xxl` applies to x-large devices (large desktops, less than 1400px) */
 * {
   margin: 0;
   padding: 0;
