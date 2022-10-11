@@ -103,8 +103,9 @@ main {
   height: 100%; }
 
 .donas__imagenes__menu {
-  border-radius: 40%;
-  margin-top: 10px; }
+  border-radius: 10%;
+  margin-top: 10px;
+  box-shadow: #000 10px 15px 8px 2px; }
 
 .donas__div__menu {
   width: 100%;
